@@ -1,1 +1,11 @@
+# Core ML & Data Libraries
+tensorflow==2.15.0
+tensorflow-recommenders==0.7.3
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
 
+transformers==4.39.3
+
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
